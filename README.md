@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SMSEagle is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://smseagle.eu/
+SMSEagle provides reliable SMS and MMS alerting solutions for critical environments. Their hardware gateways support single to eight-modem configurations, offering high‑availability, failover, and integration features such as email‑to‑SMS, webhooks, LDAP, MQTT, and multi‑factor authentication. Targeted at industries like IT, healthcare, and automation, SMSEagle enables automated message flows, escalation, and real‑time notifications via a web‑based GUI and API.
+
+**Areas:** Company · SMS · Alerting · IoT · Critical-Systems
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.smseagle.eu/)
+- [Documentation](https://www.smseagle.eu/api/)
+- [Getting started](https://www.smseagle.eu/features/failover-ha-cluster/)
+- [API reference](https://www.smseagle.eu/docs/apiv2/)
+- [Pricing](https://www.smseagle.eu/pricing/)
+- [Support](https://support.smseagle.eu/hc)
+- [Blog](https://www.smseagle.eu/blog/)
+- [Security](https://www.smseagle.eu/security/)
+- [Terms of service](https://www.smseagle.eu/terms)
+- [Privacy policy](https://www.smseagle.eu/privacy-policy)
+- [GitHub](https://github.com/smseagle)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/smseagle/](https://apis.io/providers/smseagle/).
